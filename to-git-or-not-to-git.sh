@@ -1,1 +1,1 @@
-curl https://github.com/users/AbbYKinGx
+curl https://github.com/users/abbykingx
